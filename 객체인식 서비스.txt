@@ -20,5 +20,8 @@ https://www.eco-counter.co.kr/citix-ir
 https://github.com/KiwookJUNG/ForRefrigeratorML
 -GitHub - KiwookJUNG/ForRefrigeratorML: 냉장고 속 식재료를 머신러닝을 통한 객체 인식으로 파악하고 파악한 식재료를 바탕으로 레시피를 추천해주는 애플리케이션
 
+https://stradvision.com/
+- 스트라드 비전의 자율주행 객체 인식
+
 
 
