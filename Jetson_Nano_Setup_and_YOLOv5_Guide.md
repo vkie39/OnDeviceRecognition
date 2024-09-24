@@ -5,7 +5,7 @@
  -모니터, 키보드/마우스  
  -HDMI연결선    
  -LAN케이(무선랜 카드)  
- -충전용 케이블
+ -DCIN 케이블
 
 ##### 참고 블로그
 - https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit#setup (공식 사이트) -> 얘만 봐도 됨  
